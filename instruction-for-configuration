@@ -1,0 +1,7 @@
+deploy jenkins with necessary plugins
+maven 3.6.0, owasp, jdk, autrium jdk installer, pipeline, docker, git,
+tool use jdk-17.0.15, maven 3.6.0, dependency check 4.8.0.2856, dependency check 6.5.1, docker latest
+add credential of docker-id and password and it gives u id of ur credential and then paste this id of docker crede in pipeline script.
+pipeline of this project saved on my local notepad file name secret-santa.
+docker install on jenkins, verify version of docker.
+chmod 777 /var/run/docker.sock
